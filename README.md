@@ -1,7 +1,7 @@
 # myStores
 Application for managing several stores.
 
-# Available Scripts
+## Available Scripts
 In the project directory, you can run:
 
 1. javac *.java
