@@ -1,2 +1,2 @@
-# myStores
+## myStores
 Application for managing several stores.
